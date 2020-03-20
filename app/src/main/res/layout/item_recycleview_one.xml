@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:gravity="center_vertical"
+        android:text="这是第二种布局" />
+
+    <ImageView
+        android:id="@+id/iv_show_one"
+        android:layout_width="match_parent"
+        android:background="#899888"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>
