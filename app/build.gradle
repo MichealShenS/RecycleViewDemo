@@ -27,4 +27,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     //列表
     implementation 'com.android.support:recyclerview-v7:28.+'
+
+    implementation 'com.github.donkingliang:GroupedRecyclerViewAdapter:2.0.0'
 }
